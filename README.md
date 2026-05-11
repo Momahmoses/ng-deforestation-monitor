@@ -1,3 +1,5 @@
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=Momahmoses%2Fng-deforestation-monitor&branch=main&mainModule=app.py)
+
 # 🌳 Nigeria Deforestation & Land Degradation Monitor
 
 Satellite-data-driven forest monitoring platform tracking Nigeria's deforestation across 20 forest states from 2000–2023, using **GIS change detection**, **PySpark**, **Azure ML**, and **Streamlit**.
